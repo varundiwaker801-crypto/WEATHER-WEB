@@ -1,0 +1,212 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+header{
+    background-color: black;
+    display: flex;
+    height: 40px;
+    color: white;
+    align-items: center;
+}
+
+#home{
+    font-size: 20px;
+    position: relative;
+    left: 30px;
+}
+
+#black{
+    background-image: url(assest/contrast.png);
+    background-size: cover;
+    height: 30px;
+    width: 30px;
+   position: relative;
+   left: 650px;
+    
+}
+
+p{
+   position: relative;
+   left: 650px;
+   font-size: 20px;
+}
+
+main{
+    background-image: url(assest/mick-haupt-OVX3oiL5PsE-unsplash.jpg);
+    background-size: cover;
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#sun{
+    display: flex;
+    justify-content: center;
+}
+
+#icon{
+    background-color: white;
+    display: flex;
+    align-items: center;
+    position: relative;
+   bottom: 150px;
+   left:275px;
+    border: none;
+    border-top-left-radius: 1rem;
+    border-bottom-left-radius: 1rem;
+    background: rgba(255, 255, 255, 0.85);
+  
+}
+
+input{
+    height: 30px;
+    width: 300px;
+    position: relative;
+    bottom:150px;
+    left: 275px;
+    border: none;
+    border-top-right-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    box-shadow: 20px;
+    background: rgba(255, 255, 255, 0.85);
+    
+   
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    color: white;
+    position: relative;
+    right: 300px;
+    background: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(80px);
+    border-radius: 1rem;
+    text-align: center;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 22px;
+
+}
+.box2{
+    width: 100px;
+    height: 100px;
+    color: white;
+    position: relative;
+    right: 250px;
+     background: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(80px);
+    border-radius: 1rem;
+    text-align: center;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 22px;
+    
+
+}
+
+
+.box3{
+    width: 100px;
+    height: 100px;
+    color: white;
+    position: relative;
+    right: 200px;
+     background: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(80px);
+    border-radius: 1rem;
+    text-align: center;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 22px;
+
+
+}
+.box4{
+    width: 100px;
+    height: 100px;
+    color: white;
+    position: relative;
+    right: 150px;
+     background: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(80px);
+    border-radius: 1rem;
+    text-align: center;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 22px;
+
+
+}
+.box5{
+    width: 100px;
+    height: 100px;
+    color: white;
+    position: relative;
+    right: 100px;
+     background: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(80px);
+    border-radius: 1rem;
+    text-align: center;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+
+
+}
+.box6{
+    width: 100px;
+    height: 100px;
+    color: white;
+    position: relative;
+    right: 50px;
+     background: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(80px);
+    border-radius: 1rem;
+    text-align: center;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 22px;
+
+
+}
+
+#foot{
+   background-color: silver;
+   height: 100px;
+   text-align: center;
+   font-size: 15px;
+
+}
+
+.line{
+    position: relative;
+    top: 1rem;
+    left: 1rem;
+    font-size: 15px;
+}
+
+.line2{
+    font-size: 15px;
+    position: relative;
+    top: 1rem;
+    left: 1rem;
+}
+
